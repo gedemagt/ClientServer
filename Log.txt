@@ -1,0 +1,84 @@
+
+2012-11-06 15:55:22.423: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 15:56:01.793: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 15:56:06.028: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 15:58:51.047: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:24:17.619: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:24:43.2: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:26:29.112: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:31:05.295: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:37:25.962: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:37:35.236: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:39:47.072: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:39:54.907: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:40:00.665: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 16:46:05.051: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:04:27.591: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:04:46.945: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:05:08.286: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:05:09.422: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:05:09.812: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:06:20.536: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:15:38.622: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:15:49.429: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:15:57.615: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:22:00.986: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!,Command: calc at 18:25;
+2012-11-06 18:22:02.547: IT'S THE FINAL COUNTDOWN!!!!,TotallySpiesHaveConfirmedYourTask!
+2012-11-06 18:26:24.549: The calc-command has been executed!,TotallySpiesHaveConfirmedYourTask!,Command: calc at 18:29;
+2012-11-06 18:32:06.26: Command calc at 18:35
+2012-11-06 18:32:17.812: Command playmusic at 18:35
+2012-11-06 19:06:35.052: Command playmusic at 19:06
+2012-11-06 19:09:29.437: Command playmusic at 19:09
+2012-11-06 19:14:07.442: Command shutdown -f at 19:14
+2012-11-06 20:07:55.331: Command playmusic at 20:07
+2012-11-06 20:08:04.794: Command playmusic at 20:10
+2012-11-06 20:17:55.158: Command playmusic at 20:19
+2012-11-06 20:18:30.509: Command playmusic at 20:20
+2012-11-06 20:19:55.938: Command playmusic at 20:21
+2012-11-06 20:20:48.44: Command playmusic at 20:22
+2012-11-06 21:22:37.736: Command playmusic at 21:22
+2012-11-06 21:23:25.526: Command calc at 21:23
+2012-11-06 21:23:32.377: Command calc at 21:50
+2012-11-06 21:23:38.608: Command playmusic at 21:50
+2012-11-06 21:24:59.144: Command calc at 21:25
+2012-11-06 21:25:00.147: Command playmusic at 21:25
+2012-11-06 21:25:02.824: Command calc at 22:18
+2012-11-06 21:25:03.698: Command playmusic at 22:18
+2012-11-06 21:25:04.458: Command calc at 22:18
+2012-11-06 21:25:05.452: Command calc at 22:18
+2012-11-06 21:51:50.218: Command playmusic at 21:51
+2012-11-06 21:51:51.585: Command calc at 21:51
+2012-11-06 21:51:53.533: Command calc at 22:28
+2012-11-06 21:51:54.239: Command playmusic at 22:28
+2012-11-06 21:52:55.74: Command calc at 22:31
+2012-11-06 21:52:56.805: Command playmusic at 22:31
+2012-11-06 21:55:52.216: Command calc at 22:29
+2012-11-06 21:56:06.303: Command playmusic at 22:30
+2012-11-06 21:56:09.413: Command calc at 22:30
+2012-11-06 21:56:10.086: Command playmusic at 22:30
+2012-11-06 21:56:10.72: Command calc at 22:30
+2012-11-06 21:59:59.481: Command playmusic at 22:34
+2012-11-06 22:00:00.509: Command calc at 22:34
+2012-11-06 22:00:51.597: Command calc at 22:34
+2012-11-06 22:00:52.129: Command playmusic at 22:34
+2012-11-06 22:00:52.906: Command calc at 22:34
+2012-11-06 22:00:54.559: Command playmusic at 22:34
+2012-11-06 22:00:55.172: Command calc at 22:34
+2012-11-06 22:00:56.001: Command playmusic at 22:34
+2012-11-07 20:36:50.129: Command calc at 21:20
+2012-11-07 20:36:51.337: Command calc at 21:20
+2012-11-07 20:36:52.517: Command calc at 21:20
+2012-11-07 20:36:56.511: Command gettasks at 21:20
+2012-11-07 20:37:00.024: Command gettasks at 21:21
+2012-11-07 20:37:39.213: Command calc at 21:21
+2012-11-07 20:37:39.927: Command calc at 21:21
+2012-11-07 20:38:09.63: Command calc at 21:22
+2012-11-07 20:38:10.207: Command calc at 21:22
+2012-11-07 21:16:39.493: Command calc at 21:16
+2012-11-07 21:22:00.1: Command playmusic at 21:22
+2012-11-07 21:58:45.219: Command calc at 21:58
+2012-11-07 21:58:52.326: Command calc at 21:59
+2012-11-07 22:00:17.784: Command calc at 22:01
+2012-11-07 22:00:53.751: Command calc at 22:01
+2012-11-07 22:04:57.592: Command calc at 22:05
+2012-11-07 22:26:10.931: Command calc at 22:27
